@@ -2,4 +2,8 @@
 
 ..\MQL5\Indicators\
 
-![image](https://github.com/user-attachments/assets/1ca8a02a-652e-4ed5-adb3-0f1a05e75ae0)
+Monitor min/lowest (Lime color) spread
+Monitor max/highest (Red color) spread  
+
+![image](https://github.com/user-attachments/assets/890012f5-56f7-45c5-8daf-fcb249fe434e)
+
