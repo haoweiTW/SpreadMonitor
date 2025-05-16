@@ -1,5 +1,7 @@
 ..\MQL5\Indicators\
 
+M1
+
 min/lowest (Lime color) spread
 
 max/highest (Red color) spread
